@@ -31,26 +31,26 @@ The "Guess the Number Game" is a fun and interactive Python program that challen
 
 To run this game on your local machine, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/shivankushsingh09/Guess-the-Number-Game.git
+      git clone https://github.com/shivankushsingh09/Guess-the-Number-Game.git
    ```
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
 
    ```bash
-   cd Guess-the-Number-Game
+      cd Guess-the-Number-Game
    ```
 
 3. Ensure you have Python installed. This game is compatible with Python 3.x.
 
 ## Usage
 
-To start the game, run the following command:
+**To start the game, run the following command:**
 
 ```bash
-python Guess-the-Number-Game.py
+   python Guess-the-Number-Game.py
 
 ```
 
@@ -74,19 +74,20 @@ python Guess-the-Number-Game.py
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 1. Fork the repository.
-2. Create a new branch:
+
+2. **Create a new branch:**
 
    ```bash
       git checkout -b feature-branch-name
    ```
 
-3. Make your changes and commit them:
+3. **Make your changes and commit them:**
 
    ```bsh
    git commit -m 'Add some feature'
    ```
 
-4. Push to the branch:
+4. **Push to the branch:**
 
    ```bash
    git push origin feature-branch-name
