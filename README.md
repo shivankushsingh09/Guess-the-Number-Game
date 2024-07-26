@@ -74,9 +74,24 @@ python Guess-the-Number-Game.py
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 1. Fork the repository.
-2. Create a new branch: git checkout -b feature-branch-name
-3. Make your changes and commit them: git commit -m 'Add some feature'
-4. Push to the branch: git push origin feature-branch-name
+2. Create a new branch:
+
+```
+   git checkout -b feature-branch-name
+```
+
+3. Make your changes and commit them:
+
+```
+git commit -m 'Add some feature'
+```
+
+4. Push to the branch:
+
+```
+git push origin feature-branch-name
+```
+
 5. Open a pull request.
 
 ## License
