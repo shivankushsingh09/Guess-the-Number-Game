@@ -81,10 +81,10 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [License](https://github.com/shivankushsingh09/Guess-the-Number-Game?tab=MIT-1-ov-file) file for details.
 
 ## Contact
 
-- Shivankush Singh - LinkedIn - mygithub09@gmail.com
+- Shivankush Singh - [LinkedIn](https://www.linkedin.com/in/shivankush-singh-853411241/) - mygithub09@gmail.com
 
 Project Link: https://github.com/shivankushsingh09/Guess-the-Number-Game.git
