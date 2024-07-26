@@ -76,21 +76,21 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 1. Fork the repository.
 2. Create a new branch:
 
-```bash
-   git checkout -b feature-branch-name
-```
+   ```bash
+      git checkout -b feature-branch-name
+   ```
 
 3. Make your changes and commit them:
 
-```bsh
-git commit -m 'Add some feature'
-```
+   ```bsh
+   git commit -m 'Add some feature'
+   ```
 
 4. Push to the branch:
 
-```bash
-git push origin feature-branch-name
-```
+   ```bash
+   git push origin feature-branch-name
+   ```
 
 5. Open a pull request.
 
