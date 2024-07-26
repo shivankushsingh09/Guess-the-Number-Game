@@ -63,7 +63,7 @@ python Guess-the-Number-Game.py
 5. The game will keep track of the number of attempts.
 6. Once you guess the correct number, you will be given the option to play again.
 
-## Screenshots
+## Screenshot
 
 ## Technologies Used
 
@@ -85,6 +85,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-Shivankush Singh - LinkedIn - mygithub09@gmail.com
+- Shivankush Singh - LinkedIn - mygithub09@gmail.com
 
 Project Link: https://github.com/shivankushsingh09/Guess-the-Number-Game.git
