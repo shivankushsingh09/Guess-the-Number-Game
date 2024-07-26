@@ -103,4 +103,4 @@ This project is licensed under the MIT License. See the [License](https://github
 
 - Shivankush Singh - [LinkedIn](https://www.linkedin.com/in/shivankush-singh-853411241/) - mygithub09@gmail.com
 
-Project Link: https://github.com/shivankushsingh09/Guess-the-Number-Game.git
+  Project Link: https://github.com/shivankushsingh09/Guess-the-Number-Game.git
