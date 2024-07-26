@@ -12,7 +12,7 @@ A simple command-line game written in Python where the player attempts to guess 
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](https://github.com/shivankushsingh09/Guess-the-Number-Game?tab=MIT-1-ov-file)
+- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
